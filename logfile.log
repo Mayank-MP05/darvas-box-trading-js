@@ -1,0 +1,1405 @@
+
+Processing Week Starting: 29-Jan-2024
+weekStart -  29-Jan-2024
+
+Processing Week Starting: 05-Feb-2024
+Processing date: 05-Feb-2024
+OHLC:  { date: '05-Feb-2024', currDayHigh: 1451.9, currDayLow: 1434.05 }
+[IF] Prev week high case
+buyPrice:  1453.8
+totalHoldingTarget -  0 currDayHigh  - 1451.9
+Processing date: 06-Feb-2024
+OHLC:  { date: '06-Feb-2024', currDayHigh: 1449.7, currDayLow: 1432.6 }
+[IF] Prev week high case
+buyPrice:  1453.8
+totalHoldingTarget -  0 currDayHigh  - 1449.7
+Processing date: 07-Feb-2024
+OHLC:  { date: '07-Feb-2024', currDayHigh: 1453.8, currDayLow: 1426.65 }
+[IF] Prev week high case
+buyPrice:  1453.8
+totalHoldingTarget -  0 currDayHigh  - 1453.8
+Processing date: 08-Feb-2024
+OHLC:  { date: '08-Feb-2024', currDayHigh: 1438.95, currDayLow: 1400.5 }
+[IF] Prev week high case
+buyPrice:  1453.8
+totalHoldingTarget -  0 currDayHigh  - 1438.95
+Processing date: 09-Feb-2024
+OHLC:  { date: '09-Feb-2024', currDayHigh: 1414.2, currDayLow: 1387 }
+[IF] Prev week high case
+buyPrice:  1453.8
+totalHoldingTarget -  0 currDayHigh  - 1414.2
+weekStart -  05-Feb-2024
+
+Processing Week Starting: 12-Feb-2024
+Processing date: 12-Feb-2024
+OHLC:  { date: '12-Feb-2024', currDayHigh: 1413.65, currDayLow: 1383.35 }
+[IF] Prev week high case
+buyPrice:  1427.7
+totalHoldingTarget -  0 currDayHigh  - 1413.65
+Processing date: 13-Feb-2024
+OHLC:  { date: '13-Feb-2024', currDayHigh: 1404.35, currDayLow: 1384.35 }
+[IF] Prev week high case
+buyPrice:  1427.7
+totalHoldingTarget -  0 currDayHigh  - 1404.35
+Processing date: 14-Feb-2024
+OHLC:  { date: '14-Feb-2024', currDayHigh: 1391.5, currDayLow: 1363.55 }
+[IF] Prev week high case
+buyPrice:  1427.7
+totalHoldingTarget -  0 currDayHigh  - 1391.5
+Processing date: 15-Feb-2024
+OHLC:  { date: '15-Feb-2024', currDayHigh: 1415.5, currDayLow: 1384.35 }
+[IF] Prev week high case
+buyPrice:  1427.7
+totalHoldingTarget -  0 currDayHigh  - 1415.5
+Processing date: 16-Feb-2024
+OHLC:  { date: '16-Feb-2024', currDayHigh: 1427.7, currDayLow: 1408.45 }
+[IF] Prev week high case
+buyPrice:  1427.7
+totalHoldingTarget -  0 currDayHigh  - 1427.7
+weekStart -  12-Feb-2024
+
+Processing Week Starting: 19-Feb-2024
+Processing date: 19-Feb-2024
+OHLC:  { date: '19-Feb-2024', currDayHigh: 1429, currDayLow: 1415.2 }
+[IF] Prev week high case
+buyPrice:  1464
+totalHoldingTarget -  0 currDayHigh  - 1429
+Processing date: 20-Feb-2024
+OHLC:  { date: '20-Feb-2024', currDayHigh: 1457.25, currDayLow: 1411.8 }
+[IF] Prev week high case
+buyPrice:  1464
+totalHoldingTarget -  0 currDayHigh  - 1457.25
+Processing date: 21-Feb-2024
+OHLC:  { date: '21-Feb-2024', currDayHigh: 1464, currDayLow: 1435 }
+[IF] Prev week high case
+buyPrice:  1464
+totalHoldingTarget -  0 currDayHigh  - 1464
+Processing date: 22-Feb-2024
+OHLC:  { date: '22-Feb-2024', currDayHigh: 1428.8, currDayLow: 1412.2 }
+[IF] Prev week high case
+buyPrice:  1464
+totalHoldingTarget -  0 currDayHigh  - 1428.8
+Processing date: 23-Feb-2024
+OHLC:  { date: '23-Feb-2024', currDayHigh: 1433.9, currDayLow: 1418 }
+[IF] Prev week high case
+buyPrice:  1464
+totalHoldingTarget -  0 currDayHigh  - 1433.9
+weekStart -  19-Feb-2024
+
+Processing Week Starting: 26-Feb-2024
+Processing date: 26-Feb-2024
+OHLC:  { date: '26-Feb-2024', currDayHigh: 1434.85, currDayLow: 1413.55 }
+[IF] Prev week high case
+buyPrice:  1436
+totalHoldingTarget -  0 currDayHigh  - 1434.85
+Processing date: 27-Feb-2024
+OHLC:  { date: '27-Feb-2024', currDayHigh: 1426.7, currDayLow: 1413.05 }
+[IF] Prev week high case
+buyPrice:  1436
+totalHoldingTarget -  0 currDayHigh  - 1426.7
+Processing date: 28-Feb-2024
+OHLC:  { date: '28-Feb-2024', currDayHigh: 1424.2, currDayLow: 1404 }
+[IF] Prev week high case
+buyPrice:  1436
+totalHoldingTarget -  0 currDayHigh  - 1424.2
+Processing date: 29-Feb-2024
+OHLC:  { date: '29-Feb-2024', currDayHigh: 1410.4, currDayLow: 1397.3 }
+[IF] Prev week high case
+buyPrice:  1436
+totalHoldingTarget -  0 currDayHigh  - 1410.4
+Processing date: 01-Mar-2024
+OHLC:  { date: '01-Mar-2024', currDayHigh: 1432.75, currDayLow: 1400 }
+[IF] Prev week high case
+buyPrice:  1436
+totalHoldingTarget -  0 currDayHigh  - 1432.75
+Processing date: 02-Mar-2024
+OHLC:  { date: '02-Mar-2024', currDayHigh: 1436, currDayLow: 1428.1 }
+[IF] Prev week high case
+buyPrice:  1436
+totalHoldingTarget -  0 currDayHigh  - 1436
+weekStart -  26-Feb-2024
+
+Processing Week Starting: 04-Mar-2024
+Processing date: 04-Mar-2024
+OHLC:  { date: '04-Mar-2024', currDayHigh: 1437, currDayLow: 1424.3 }
+[IF] Prev week high case
+buyPrice:  1452.85
+totalHoldingTarget -  0 currDayHigh  - 1437
+Processing date: 05-Mar-2024
+OHLC:  { date: '05-Mar-2024', currDayHigh: 1443, currDayLow: 1421.65 }
+[IF] Prev week high case
+buyPrice:  1452.85
+totalHoldingTarget -  0 currDayHigh  - 1443
+Processing date: 06-Mar-2024
+OHLC:  { date: '06-Mar-2024', currDayHigh: 1452.85, currDayLow: 1433.55 }
+[IF] Prev week high case
+buyPrice:  1452.85
+totalHoldingTarget -  0 currDayHigh  - 1452.85
+Processing date: 07-Mar-2024
+OHLC:  { date: '07-Mar-2024', currDayHigh: 1451.05, currDayLow: 1441.4 }
+[IF] Prev week high case
+buyPrice:  1452.85
+totalHoldingTarget -  0 currDayHigh  - 1451.05
+weekStart -  04-Mar-2024
+
+Processing Week Starting: 11-Mar-2024
+Processing date: 11-Mar-2024
+OHLC:  { date: '11-Mar-2024', currDayHigh: 1445.95, currDayLow: 1423 }
+[IF] Prev week high case
+buyPrice:  1471.6
+totalHoldingTarget -  0 currDayHigh  - 1445.95
+Processing date: 12-Mar-2024
+OHLC:  { date: '12-Mar-2024', currDayHigh: 1464, currDayLow: 1429.25 }
+[IF] Prev week high case
+buyPrice:  1471.6
+totalHoldingTarget -  0 currDayHigh  - 1464
+Processing date: 13-Mar-2024
+OHLC:  { date: '13-Mar-2024', currDayHigh: 1471.6, currDayLow: 1450.1 }
+[IF] Prev week high case
+buyPrice:  1471.6
+totalHoldingTarget -  0 currDayHigh  - 1471.6
+Processing date: 14-Mar-2024
+OHLC:  { date: '14-Mar-2024', currDayHigh: 1466, currDayLow: 1444.3 }
+[IF] Prev week high case
+buyPrice:  1471.6
+totalHoldingTarget -  0 currDayHigh  - 1466
+Processing date: 15-Mar-2024
+OHLC:  { date: '15-Mar-2024', currDayHigh: 1459.3, currDayLow: 1442.25 }
+[IF] Prev week high case
+buyPrice:  1471.6
+totalHoldingTarget -  0 currDayHigh  - 1459.3
+weekStart -  11-Mar-2024
+
+Processing Week Starting: 18-Mar-2024
+Processing date: 18-Mar-2024
+OHLC:  { date: '18-Mar-2024', currDayHigh: 1456, currDayLow: 1435.8 }
+[IF] Prev week high case
+buyPrice:  1456
+totalHoldingTarget -  0 currDayHigh  - 1456
+Processing date: 19-Mar-2024
+OHLC:  { date: '19-Mar-2024', currDayHigh: 1452.4, currDayLow: 1435.5 }
+[IF] Prev week high case
+buyPrice:  1456
+totalHoldingTarget -  0 currDayHigh  - 1452.4
+Processing date: 20-Mar-2024
+OHLC:  { date: '20-Mar-2024', currDayHigh: 1451.65, currDayLow: 1424.65 }
+[IF] Prev week high case
+buyPrice:  1456
+totalHoldingTarget -  0 currDayHigh  - 1451.65
+Processing date: 21-Mar-2024
+OHLC:  { date: '21-Mar-2024', currDayHigh: 1451.25, currDayLow: 1438.3 }
+[IF] Prev week high case
+buyPrice:  1456
+totalHoldingTarget -  0 currDayHigh  - 1451.25
+Processing date: 22-Mar-2024
+OHLC:  { date: '22-Mar-2024', currDayHigh: 1450.75, currDayLow: 1437.75 }
+[IF] Prev week high case
+buyPrice:  1456
+totalHoldingTarget -  0 currDayHigh  - 1450.75
+weekStart -  18-Mar-2024
+
+Processing Week Starting: 25-Mar-2024
+Processing date: 26-Mar-2024
+OHLC:  { date: '26-Mar-2024', currDayHigh: 1437.95, currDayLow: 1422.15 }
+[IF] Prev week high case
+buyPrice:  1460.5
+totalHoldingTarget -  0 currDayHigh  - 1437.95
+Processing date: 27-Mar-2024
+OHLC:  { date: '27-Mar-2024', currDayHigh: 1447.95, currDayLow: 1421.25 }
+[IF] Prev week high case
+buyPrice:  1460.5
+totalHoldingTarget -  0 currDayHigh  - 1447.95
+Processing date: 28-Mar-2024
+OHLC:  { date: '28-Mar-2024', currDayHigh: 1460.5, currDayLow: 1440.7 }
+[IF] Prev week high case
+buyPrice:  1460.5
+totalHoldingTarget -  0 currDayHigh  - 1460.5
+weekStart -  25-Mar-2024
+
+Processing Week Starting: 01-Apr-2024
+Processing date: 01-Apr-2024
+OHLC:  { date: '01-Apr-2024', currDayHigh: 1473.8, currDayLow: 1455.6 }
+[IF] Prev week high case
+buyPrice:  1554.5
+totalHoldingTarget -  0 currDayHigh  - 1473.8
+Processing date: 02-Apr-2024
+OHLC:  { date: '02-Apr-2024', currDayHigh: 1494.85, currDayLow: 1463.25 }
+[IF] Prev week high case
+buyPrice:  1554.5
+totalHoldingTarget -  0 currDayHigh  - 1494.85
+Processing date: 03-Apr-2024
+OHLC:  { date: '03-Apr-2024', currDayHigh: 1495.65, currDayLow: 1471.4 }
+[IF] Prev week high case
+buyPrice:  1554.5
+totalHoldingTarget -  0 currDayHigh  - 1495.65
+Processing date: 04-Apr-2024
+OHLC:  { date: '04-Apr-2024', currDayHigh: 1530, currDayLow: 1504 }
+[IF] Prev week high case
+buyPrice:  1554.5
+totalHoldingTarget -  0 currDayHigh  - 1530
+Processing date: 05-Apr-2024
+OHLC:  { date: '05-Apr-2024', currDayHigh: 1554.5, currDayLow: 1530.15 }
+[IF] Prev week high case
+buyPrice:  1554.5
+totalHoldingTarget -  0 currDayHigh  - 1554.5
+weekStart -  01-Apr-2024
+
+Processing Week Starting: 08-Apr-2024
+Processing date: 08-Apr-2024
+OHLC:  { date: '08-Apr-2024', currDayHigh: 1557.25, currDayLow: 1541.55 }
+[IF] Prev week high case
+buyPrice:  1557.25
+totalHoldingTarget -  0 currDayHigh  - 1557.25
+Processing date: 09-Apr-2024
+OHLC:  { date: '09-Apr-2024', currDayHigh: 1554.85, currDayLow: 1540.3 }
+[IF] Prev week high case
+buyPrice:  1557.25
+totalHoldingTarget -  0 currDayHigh  - 1554.85
+Processing date: 10-Apr-2024
+OHLC:  { date: '10-Apr-2024', currDayHigh: 1549.9, currDayLow: 1532.95 }
+[IF] Prev week high case
+buyPrice:  1557.25
+totalHoldingTarget -  0 currDayHigh  - 1549.9
+Processing date: 12-Apr-2024
+OHLC:  { date: '12-Apr-2024', currDayHigh: 1529.85, currDayLow: 1513.45 }
+[IF] Prev week high case
+buyPrice:  1557.25
+totalHoldingTarget -  0 currDayHigh  - 1529.85
+weekStart -  08-Apr-2024
+
+Processing Week Starting: 15-Apr-2024
+Processing date: 15-Apr-2024
+OHLC:  { date: '15-Apr-2024', currDayHigh: 1510, currDayLow: 1492.05 }
+[IF] Prev week high case
+buyPrice:  1534.95
+totalHoldingTarget -  0 currDayHigh  - 1510
+Processing date: 16-Apr-2024
+OHLC:  { date: '16-Apr-2024', currDayHigh: 1512.9, currDayLow: 1482.25 }
+[IF] Prev week high case
+buyPrice:  1534.95
+totalHoldingTarget -  0 currDayHigh  - 1512.9
+Processing date: 18-Apr-2024
+OHLC:  { date: '18-Apr-2024', currDayHigh: 1518.85, currDayLow: 1491.05 }
+[IF] Prev week high case
+buyPrice:  1534.95
+totalHoldingTarget -  0 currDayHigh  - 1518.85
+Processing date: 19-Apr-2024
+OHLC:  { date: '19-Apr-2024', currDayHigh: 1534.95, currDayLow: 1480.25 }
+[IF] Prev week high case
+buyPrice:  1534.95
+totalHoldingTarget -  0 currDayHigh  - 1534.95
+weekStart -  15-Apr-2024
+
+Processing Week Starting: 22-Apr-2024
+Processing date: 22-Apr-2024
+OHLC:  { date: '22-Apr-2024', currDayHigh: 1557.4, currDayLow: 1508.3 }
+[IF] Prev week high case
+buyPrice:  1557.4
+totalHoldingTarget -  0 currDayHigh  - 1557.4
+Processing date: 23-Apr-2024
+OHLC:  { date: '23-Apr-2024', currDayHigh: 1526.5, currDayLow: 1503.25 }
+[IF] Prev week high case
+buyPrice:  1557.4
+totalHoldingTarget -  0 currDayHigh  - 1526.5
+Processing date: 24-Apr-2024
+OHLC:  { date: '24-Apr-2024', currDayHigh: 1521.75, currDayLow: 1509.05 }
+[IF] Prev week high case
+buyPrice:  1557.4
+totalHoldingTarget -  0 currDayHigh  - 1521.75
+Processing date: 25-Apr-2024
+OHLC:  { date: '25-Apr-2024', currDayHigh: 1519.7, currDayLow: 1506.25 }
+[IF] Prev week high case
+buyPrice:  1557.4
+totalHoldingTarget -  0 currDayHigh  - 1519.7
+Processing date: 26-Apr-2024
+OHLC:  { date: '26-Apr-2024', currDayHigh: 1528, currDayLow: 1505.55 }
+[IF] Prev week high case
+buyPrice:  1557.4
+totalHoldingTarget -  0 currDayHigh  - 1528
+weekStart -  22-Apr-2024
+
+Processing Week Starting: 29-Apr-2024
+Processing date: 29-Apr-2024
+OHLC:  { date: '29-Apr-2024', currDayHigh: 1534.45, currDayLow: 1506.55 }
+[IF] Prev week high case
+buyPrice:  1540.6
+totalHoldingTarget -  0 currDayHigh  - 1534.45
+Processing date: 30-Apr-2024
+OHLC:  { date: '30-Apr-2024', currDayHigh: 1539.5, currDayLow: 1514.9 }
+[IF] Prev week high case
+buyPrice:  1540.6
+totalHoldingTarget -  0 currDayHigh  - 1539.5
+Processing date: 02-May-2024
+OHLC:  { date: '02-May-2024', currDayHigh: 1537, currDayLow: 1520.35 }
+[IF] Prev week high case
+buyPrice:  1540.6
+totalHoldingTarget -  0 currDayHigh  - 1537
+Processing date: 03-May-2024
+OHLC:  { date: '03-May-2024', currDayHigh: 1540.6, currDayLow: 1507.2 }
+[IF] Prev week high case
+buyPrice:  1540.6
+totalHoldingTarget -  0 currDayHigh  - 1540.6
+weekStart -  29-Apr-2024
+
+Processing Week Starting: 06-May-2024
+Processing date: 06-May-2024
+OHLC:  { date: '06-May-2024', currDayHigh: 1534.5, currDayLow: 1517.15 }
+[IF] Prev week high case
+buyPrice:  1534.5
+totalHoldingTarget -  0 currDayHigh  - 1534.5
+Processing date: 07-May-2024
+OHLC:  { date: '07-May-2024', currDayHigh: 1524.05, currDayLow: 1504.15 }
+[IF] Prev week high case
+buyPrice:  1534.5
+totalHoldingTarget -  0 currDayHigh  - 1524.05
+Processing date: 08-May-2024
+OHLC:  { date: '08-May-2024', currDayHigh: 1496.95, currDayLow: 1480.35 }
+[IF] Prev week high case
+buyPrice:  1534.5
+totalHoldingTarget -  0 currDayHigh  - 1496.95
+Processing date: 09-May-2024
+OHLC:  { date: '09-May-2024', currDayHigh: 1486.75, currDayLow: 1445.3 }
+[IF] Prev week high case
+buyPrice:  1534.5
+totalHoldingTarget -  0 currDayHigh  - 1486.75
+Processing date: 10-May-2024
+OHLC:  { date: '10-May-2024', currDayHigh: 1451.95, currDayLow: 1426.8 }
+[IF] Prev week high case
+buyPrice:  1534.5
+totalHoldingTarget -  0 currDayHigh  - 1451.95
+weekStart -  06-May-2024
+
+Processing Week Starting: 13-May-2024
+Processing date: 13-May-2024
+OHLC:  { date: '13-May-2024', currDayHigh: 1459.8, currDayLow: 1430.3 }
+[IF] Prev week high case
+buyPrice:  1468
+totalHoldingTarget -  0 currDayHigh  - 1459.8
+Processing date: 14-May-2024
+OHLC:  { date: '14-May-2024', currDayHigh: 1465.5, currDayLow: 1450.3 }
+[IF] Prev week high case
+buyPrice:  1468
+totalHoldingTarget -  0 currDayHigh  - 1465.5
+Processing date: 15-May-2024
+OHLC:  { date: '15-May-2024', currDayHigh: 1459.7, currDayLow: 1435.8 }
+[IF] Prev week high case
+buyPrice:  1468
+totalHoldingTarget -  0 currDayHigh  - 1459.7
+Processing date: 16-May-2024
+OHLC:  { date: '16-May-2024', currDayHigh: 1462.55, currDayLow: 1435.5 }
+[IF] Prev week high case
+buyPrice:  1468
+totalHoldingTarget -  0 currDayHigh  - 1462.55
+Processing date: 17-May-2024
+OHLC:  { date: '17-May-2024', currDayHigh: 1468, currDayLow: 1446.2 }
+[IF] Prev week high case
+buyPrice:  1468
+totalHoldingTarget -  0 currDayHigh  - 1468
+Processing date: 18-May-2024
+OHLC:  { date: '18-May-2024', currDayHigh: 1467.1, currDayLow: 1463.05 }
+[IF] Prev week high case
+buyPrice:  1468
+totalHoldingTarget -  0 currDayHigh  - 1467.1
+weekStart -  13-May-2024
+
+Processing Week Starting: 20-May-2024
+Processing date: 21-May-2024
+OHLC:  { date: '21-May-2024', currDayHigh: 1469.7, currDayLow: 1450.1 }
+[IF] Prev week high case
+buyPrice:  1519.9
+totalHoldingTarget -  0 currDayHigh  - 1469.7
+Processing date: 22-May-2024
+OHLC:  { date: '22-May-2024', currDayHigh: 1465.6, currDayLow: 1448.15 }
+[IF] Prev week high case
+buyPrice:  1519.9
+totalHoldingTarget -  0 currDayHigh  - 1465.6
+Processing date: 23-May-2024
+OHLC:  { date: '23-May-2024', currDayHigh: 1495.65, currDayLow: 1457.05 }
+[IF] Prev week high case
+buyPrice:  1519.9
+totalHoldingTarget -  0 currDayHigh  - 1495.65
+Processing date: 24-May-2024
+OHLC:  { date: '24-May-2024', currDayHigh: 1519.9, currDayLow: 1486 }
+[IF] Prev week high case
+buyPrice:  1519.9
+totalHoldingTarget -  0 currDayHigh  - 1519.9
+weekStart -  20-May-2024
+
+Processing Week Starting: 27-May-2024
+Processing date: 27-May-2024
+OHLC:  { date: '27-May-2024', currDayHigh: 1545, currDayLow: 1519.05 }
+[IF] Prev week high case
+buyPrice:  1545
+totalHoldingTarget -  0 currDayHigh  - 1545
+Processing date: 28-May-2024
+OHLC:  { date: '28-May-2024', currDayHigh: 1536.05, currDayLow: 1524.8 }
+[IF] Prev week high case
+buyPrice:  1545
+totalHoldingTarget -  0 currDayHigh  - 1536.05
+Processing date: 29-May-2024
+OHLC:  { date: '29-May-2024', currDayHigh: 1523.85, currDayLow: 1501.25 }
+[IF] Prev week high case
+buyPrice:  1545
+totalHoldingTarget -  0 currDayHigh  - 1523.85
+Processing date: 30-May-2024
+OHLC:  { date: '30-May-2024', currDayHigh: 1523.6, currDayLow: 1497.65 }
+[IF] Prev week high case
+buyPrice:  1545
+totalHoldingTarget -  0 currDayHigh  - 1523.6
+Processing date: 31-May-2024
+OHLC:  { date: '31-May-2024', currDayHigh: 1536, currDayLow: 1514 }
+[IF] Prev week high case
+buyPrice:  1545
+totalHoldingTarget -  0 currDayHigh  - 1536
+weekStart -  27-May-2024
+
+Processing Week Starting: 03-Jun-2024
+Processing date: 03-Jun-2024
+OHLC:  { date: '03-Jun-2024', currDayHigh: 1599, currDayLow: 1550 }
+[IF] Prev week high case
+buyPrice:  1599
+totalHoldingTarget -  0 currDayHigh  - 1599
+Processing date: 04-Jun-2024
+OHLC:  { date: '04-Jun-2024', currDayHigh: 1559, currDayLow: 1454 }
+[IF] Prev week high case
+buyPrice:  1599
+totalHoldingTarget -  0 currDayHigh  - 1559
+Processing date: 05-Jun-2024
+OHLC:  { date: '05-Jun-2024', currDayHigh: 1559.6, currDayLow: 1482.35 }
+[IF] Prev week high case
+buyPrice:  1599
+totalHoldingTarget -  0 currDayHigh  - 1559.6
+Processing date: 06-Jun-2024
+OHLC:  { date: '06-Jun-2024', currDayHigh: 1565.45, currDayLow: 1546.6 }
+[IF] Prev week high case
+buyPrice:  1599
+totalHoldingTarget -  0 currDayHigh  - 1565.45
+Processing date: 07-Jun-2024
+OHLC:  { date: '07-Jun-2024', currDayHigh: 1584.35, currDayLow: 1552.05 }
+[IF] Prev week high case
+buyPrice:  1599
+totalHoldingTarget -  0 currDayHigh  - 1584.35
+weekStart -  03-Jun-2024
+
+Processing Week Starting: 10-Jun-2024
+Processing date: 10-Jun-2024
+OHLC:  { date: '10-Jun-2024', currDayHigh: 1580.65, currDayLow: 1557.6 }
+[IF] Prev week high case
+buyPrice:  1599
+totalHoldingTarget -  0 currDayHigh  - 1580.65
+Processing date: 11-Jun-2024
+OHLC:  { date: '11-Jun-2024', currDayHigh: 1571, currDayLow: 1552.2 }
+[IF] Prev week high case
+buyPrice:  1599
+totalHoldingTarget -  0 currDayHigh  - 1571
+Processing date: 12-Jun-2024
+OHLC:  { date: '12-Jun-2024', currDayHigh: 1588.3, currDayLow: 1566.4 }
+[IF] Prev week high case
+buyPrice:  1599
+totalHoldingTarget -  0 currDayHigh  - 1588.3
+Processing date: 13-Jun-2024
+OHLC:  { date: '13-Jun-2024', currDayHigh: 1585.7, currDayLow: 1574 }
+[IF] Prev week high case
+buyPrice:  1599
+totalHoldingTarget -  0 currDayHigh  - 1585.7
+Processing date: 14-Jun-2024
+OHLC:  { date: '14-Jun-2024', currDayHigh: 1599, currDayLow: 1577.7 }
+[IF] Prev week high case
+buyPrice:  1599
+totalHoldingTarget -  0 currDayHigh  - 1599
+weekStart -  10-Jun-2024
+
+Processing Week Starting: 17-Jun-2024
+Processing date: 18-Jun-2024
+OHLC:  { date: '18-Jun-2024', currDayHigh: 1610.5, currDayLow: 1589.45 }
+[IF] Prev week high case
+buyPrice:  1681.45
+totalHoldingTarget -  0 currDayHigh  - 1610.5
+Processing date: 19-Jun-2024
+OHLC:  { date: '19-Jun-2024', currDayHigh: 1669.9, currDayLow: 1604 }
+[IF] Prev week high case
+buyPrice:  1681.45
+totalHoldingTarget -  0 currDayHigh  - 1669.9
+Processing date: 20-Jun-2024
+OHLC:  { date: '20-Jun-2024', currDayHigh: 1681.45, currDayLow: 1652 }
+[IF] Prev week high case
+buyPrice:  1681.45
+totalHoldingTarget -  0 currDayHigh  - 1681.45
+Processing date: 21-Jun-2024
+OHLC:  { date: '21-Jun-2024', currDayHigh: 1672.85, currDayLow: 1643.15 }
+[IF] Prev week high case
+buyPrice:  1681.45
+totalHoldingTarget -  0 currDayHigh  - 1672.85
+weekStart -  17-Jun-2024
+
+Processing Week Starting: 24-Jun-2024
+Processing date: 24-Jun-2024
+OHLC:  { date: '24-Jun-2024', currDayHigh: 1675.1, currDayLow: 1645.75 }
+[IF] Prev week high case
+buyPrice:  1716.95
+totalHoldingTarget -  0 currDayHigh  - 1675.1
+Processing date: 25-Jun-2024
+OHLC:  { date: '25-Jun-2024', currDayHigh: 1716.95, currDayLow: 1671.1 }
+[IF] Prev week high case
+buyPrice:  1716.95
+totalHoldingTarget -  0 currDayHigh  - 1716.95
+Processing date: 26-Jun-2024
+OHLC:  { date: '26-Jun-2024', currDayHigh: 1710.9, currDayLow: 1691.1 }
+[IF] Prev week high case
+buyPrice:  1716.95
+totalHoldingTarget -  0 currDayHigh  - 1710.9
+Processing date: 27-Jun-2024
+OHLC:  { date: '27-Jun-2024', currDayHigh: 1713, currDayLow: 1686.6 }
+[IF] Prev week high case
+buyPrice:  1716.95
+totalHoldingTarget -  0 currDayHigh  - 1713
+Processing date: 28-Jun-2024
+OHLC:  { date: '28-Jun-2024', currDayHigh: 1706.6, currDayLow: 1679 }
+[IF] Prev week high case
+buyPrice:  1716.95
+totalHoldingTarget -  0 currDayHigh  - 1706.6
+weekStart -  24-Jun-2024
+
+Processing Week Starting: 01-Jul-2024
+Processing date: 01-Jul-2024
+OHLC:  { date: '01-Jul-2024', currDayHigh: 1707.3, currDayLow: 1680 }
+[IF] Prev week high case
+buyPrice:  1794
+totalHoldingTarget -  0 currDayHigh  - 1707.3
+Processing date: 02-Jul-2024
+OHLC:  { date: '02-Jul-2024', currDayHigh: 1734.9, currDayLow: 1702.75 }
+[IF] Prev week high case
+buyPrice:  1794
+totalHoldingTarget -  0 currDayHigh  - 1734.9
+Processing date: 03-Jul-2024
+OHLC:  { date: '03-Jul-2024', currDayHigh: 1794, currDayLow: 1764.65 }
+[IF] Prev week high case
+buyPrice:  1794
+totalHoldingTarget -  0 currDayHigh  - 1794
+Processing date: 04-Jul-2024
+OHLC:  { date: '04-Jul-2024', currDayHigh: 1759.75, currDayLow: 1724.85 }
+[IF] Prev week high case
+buyPrice:  1794
+totalHoldingTarget -  0 currDayHigh  - 1759.75
+Processing date: 05-Jul-2024
+OHLC:  { date: '05-Jul-2024', currDayHigh: 1685, currDayLow: 1642.2 }
+[IF] Prev week high case
+buyPrice:  1794
+totalHoldingTarget -  0 currDayHigh  - 1685
+weekStart -  01-Jul-2024
+
+Processing Week Starting: 08-Jul-2024
+Processing date: 08-Jul-2024
+OHLC:  { date: '08-Jul-2024', currDayHigh: 1654.95, currDayLow: 1627.15 }
+[IF] Prev week high case
+buyPrice:  1654.95
+totalHoldingTarget -  0 currDayHigh  - 1654.95
+Processing date: 09-Jul-2024
+OHLC:  { date: '09-Jul-2024', currDayHigh: 1646.7, currDayLow: 1620.35 }
+[IF] Prev week high case
+buyPrice:  1654.95
+totalHoldingTarget -  0 currDayHigh  - 1646.7
+Processing date: 10-Jul-2024
+OHLC:  { date: '10-Jul-2024', currDayHigh: 1640, currDayLow: 1620.75 }
+[IF] Prev week high case
+buyPrice:  1654.95
+totalHoldingTarget -  0 currDayHigh  - 1640
+Processing date: 11-Jul-2024
+OHLC:  { date: '11-Jul-2024', currDayHigh: 1625.85, currDayLow: 1601 }
+[IF] Prev week high case
+buyPrice:  1654.95
+totalHoldingTarget -  0 currDayHigh  - 1625.85
+Processing date: 12-Jul-2024
+OHLC:  { date: '12-Jul-2024', currDayHigh: 1638.4, currDayLow: 1611.15 }
+[IF] Prev week high case
+buyPrice:  1654.95
+totalHoldingTarget -  0 currDayHigh  - 1638.4
+weekStart -  08-Jul-2024
+
+Processing Week Starting: 15-Jul-2024
+Processing date: 15-Jul-2024
+OHLC:  { date: '15-Jul-2024', currDayHigh: 1629.8, currDayLow: 1615.2 }
+[IF] Prev week high case
+buyPrice:  1629.8
+totalHoldingTarget -  0 currDayHigh  - 1629.8
+Processing date: 16-Jul-2024
+OHLC:  { date: '16-Jul-2024', currDayHigh: 1627, currDayLow: 1616.8 }
+[IF] Prev week high case
+buyPrice:  1629.8
+totalHoldingTarget -  0 currDayHigh  - 1627
+Processing date: 18-Jul-2024
+OHLC:  { date: '18-Jul-2024', currDayHigh: 1623.95, currDayLow: 1599.15 }
+[IF] Prev week high case
+buyPrice:  1629.8
+totalHoldingTarget -  0 currDayHigh  - 1623.95
+Processing date: 19-Jul-2024
+OHLC:  { date: '19-Jul-2024', currDayHigh: 1623, currDayLow: 1603.5 }
+[IF] Prev week high case
+buyPrice:  1629.8
+totalHoldingTarget -  0 currDayHigh  - 1623
+weekStart -  15-Jul-2024
+
+Processing Week Starting: 22-Jul-2024
+Processing date: 22-Jul-2024
+OHLC:  { date: '22-Jul-2024', currDayHigh: 1651, currDayLow: 1612.65 }
+[IF] Prev week high case
+buyPrice:  1651
+totalHoldingTarget -  0 currDayHigh  - 1651
+Processing date: 23-Jul-2024
+OHLC:  { date: '23-Jul-2024', currDayHigh: 1647.8, currDayLow: 1605 }
+[IF] Prev week high case
+buyPrice:  1651
+totalHoldingTarget -  0 currDayHigh  - 1647.8
+Processing date: 24-Jul-2024
+OHLC:  { date: '24-Jul-2024', currDayHigh: 1621, currDayLow: 1588.05 }
+[IF] Prev week high case
+buyPrice:  1651
+totalHoldingTarget -  0 currDayHigh  - 1621
+Processing date: 25-Jul-2024
+OHLC:  { date: '25-Jul-2024', currDayHigh: 1625, currDayLow: 1593 }
+[IF] Prev week high case
+buyPrice:  1651
+totalHoldingTarget -  0 currDayHigh  - 1625
+Processing date: 26-Jul-2024
+OHLC:  { date: '26-Jul-2024', currDayHigh: 1621.75, currDayLow: 1596.45 }
+[IF] Prev week high case
+buyPrice:  1651
+totalHoldingTarget -  0 currDayHigh  - 1621.75
+weekStart -  22-Jul-2024
+
+Processing Week Starting: 29-Jul-2024
+Processing date: 29-Jul-2024
+OHLC:  { date: '29-Jul-2024', currDayHigh: 1631.85, currDayLow: 1598.3 }
+[IF] Prev week high case
+buyPrice:  1670.5
+totalHoldingTarget -  0 currDayHigh  - 1631.85
+Processing date: 30-Jul-2024
+OHLC:  { date: '30-Jul-2024', currDayHigh: 1634.75, currDayLow: 1599 }
+[IF] Prev week high case
+buyPrice:  1670.5
+totalHoldingTarget -  0 currDayHigh  - 1634.75
+Processing date: 31-Jul-2024
+OHLC:  { date: '31-Jul-2024', currDayHigh: 1627.9, currDayLow: 1609.2 }
+[IF] Prev week high case
+buyPrice:  1670.5
+totalHoldingTarget -  0 currDayHigh  - 1627.9
+Processing date: 01-Aug-2024
+OHLC:  { date: '01-Aug-2024', currDayHigh: 1650.05, currDayLow: 1617.95 }
+[IF] Prev week high case
+buyPrice:  1670.5
+totalHoldingTarget -  0 currDayHigh  - 1650.05
+Processing date: 02-Aug-2024
+OHLC:  { date: '02-Aug-2024', currDayHigh: 1670.5, currDayLow: 1631 }
+[IF] Prev week high case
+buyPrice:  1670.5
+totalHoldingTarget -  0 currDayHigh  - 1670.5
+weekStart -  29-Jul-2024
+
+Processing Week Starting: 05-Aug-2024
+Processing date: 05-Aug-2024
+OHLC:  { date: '05-Aug-2024', currDayHigh: 1646, currDayLow: 1601 }
+[IF] Prev week high case
+buyPrice:  1662.55
+totalHoldingTarget -  0 currDayHigh  - 1646
+Processing date: 06-Aug-2024
+OHLC:  { date: '06-Aug-2024', currDayHigh: 1632.95, currDayLow: 1593.3 }
+[IF] Prev week high case
+buyPrice:  1662.55
+totalHoldingTarget -  0 currDayHigh  - 1632.95
+Processing date: 07-Aug-2024
+OHLC:  { date: '07-Aug-2024', currDayHigh: 1630, currDayLow: 1602.2 }
+[IF] Prev week high case
+buyPrice:  1662.55
+totalHoldingTarget -  0 currDayHigh  - 1630
+Processing date: 08-Aug-2024
+OHLC:  { date: '08-Aug-2024', currDayHigh: 1653.3, currDayLow: 1619.25 }
+[IF] Prev week high case
+buyPrice:  1662.55
+totalHoldingTarget -  0 currDayHigh  - 1653.3
+Processing date: 09-Aug-2024
+OHLC:  { date: '09-Aug-2024', currDayHigh: 1662.55, currDayLow: 1645.8 }
+[IF] Prev week high case
+buyPrice:  1662.55
+totalHoldingTarget -  0 currDayHigh  - 1662.55
+weekStart -  05-Aug-2024
+
+Processing Week Starting: 12-Aug-2024
+Processing date: 12-Aug-2024
+OHLC:  { date: '12-Aug-2024', currDayHigh: 1675.95, currDayLow: 1647.35 }
+[IF] Prev week high case
+buyPrice:  1675.95
+totalHoldingTarget -  0 currDayHigh  - 1675.95
+Processing date: 13-Aug-2024
+OHLC:  { date: '13-Aug-2024', currDayHigh: 1632.4, currDayLow: 1601.15 }
+[IF] Prev week high case
+buyPrice:  1675.95
+totalHoldingTarget -  0 currDayHigh  - 1632.4
+Processing date: 14-Aug-2024
+OHLC:  { date: '14-Aug-2024', currDayHigh: 1613.7, currDayLow: 1603.2 }
+[IF] Prev week high case
+buyPrice:  1675.95
+totalHoldingTarget -  0 currDayHigh  - 1613.7
+Processing date: 16-Aug-2024
+OHLC:  { date: '16-Aug-2024', currDayHigh: 1634.15, currDayLow: 1611 }
+[IF] Prev week high case
+buyPrice:  1675.95
+totalHoldingTarget -  0 currDayHigh  - 1634.15
+weekStart -  12-Aug-2024
+
+Processing Week Starting: 19-Aug-2024
+Processing date: 19-Aug-2024
+OHLC:  { date: '19-Aug-2024', currDayHigh: 1637.65, currDayLow: 1623.7 }
+[IF] Prev week high case
+buyPrice:  1646
+totalHoldingTarget -  0 currDayHigh  - 1637.65
+Processing date: 20-Aug-2024
+OHLC:  { date: '20-Aug-2024', currDayHigh: 1646, currDayLow: 1627.45 }
+[IF] Prev week high case
+buyPrice:  1646
+totalHoldingTarget -  0 currDayHigh  - 1646
+Processing date: 21-Aug-2024
+OHLC:  { date: '21-Aug-2024', currDayHigh: 1634.55, currDayLow: 1617.8 }
+[IF] Prev week high case
+buyPrice:  1646
+totalHoldingTarget -  0 currDayHigh  - 1634.55
+Processing date: 22-Aug-2024
+OHLC:  { date: '22-Aug-2024', currDayHigh: 1638.3, currDayLow: 1628 }
+[IF] Prev week high case
+buyPrice:  1646
+totalHoldingTarget -  0 currDayHigh  - 1638.3
+Processing date: 23-Aug-2024
+OHLC:  { date: '23-Aug-2024', currDayHigh: 1634, currDayLow: 1623 }
+[IF] Prev week high case
+buyPrice:  1646
+totalHoldingTarget -  0 currDayHigh  - 1634
+weekStart -  19-Aug-2024
+
+Processing Week Starting: 26-Aug-2024
+Processing date: 26-Aug-2024
+OHLC:  { date: '26-Aug-2024', currDayHigh: 1647.95, currDayLow: 1632.2 }
+[IF] Prev week high case
+buyPrice:  1662
+totalHoldingTarget -  0 currDayHigh  - 1647.95
+Processing date: 27-Aug-2024
+OHLC:  { date: '27-Aug-2024', currDayHigh: 1647.4, currDayLow: 1632.2 }
+[IF] Prev week high case
+buyPrice:  1662
+totalHoldingTarget -  0 currDayHigh  - 1647.4
+Processing date: 28-Aug-2024
+OHLC:  { date: '28-Aug-2024', currDayHigh: 1639.75, currDayLow: 1630.2 }
+[IF] Prev week high case
+buyPrice:  1662
+totalHoldingTarget -  0 currDayHigh  - 1639.75
+Processing date: 29-Aug-2024
+OHLC:  { date: '29-Aug-2024', currDayHigh: 1644.4, currDayLow: 1631.15 }
+[IF] Prev week high case
+buyPrice:  1662
+totalHoldingTarget -  0 currDayHigh  - 1644.4
+Processing date: 30-Aug-2024
+OHLC:  { date: '30-Aug-2024', currDayHigh: 1662, currDayLow: 1621.15 }
+[IF] Prev week high case
+buyPrice:  1662
+totalHoldingTarget -  0 currDayHigh  - 1662
+weekStart -  26-Aug-2024
+
+Processing Week Starting: 02-Sep-2024
+Processing date: 02-Sep-2024
+OHLC:  { date: '02-Sep-2024', currDayHigh: 1646.8, currDayLow: 1623.2 }
+[IF] Prev week high case
+buyPrice:  1649.9
+totalHoldingTarget -  0 currDayHigh  - 1646.8
+Processing date: 03-Sep-2024
+OHLC:  { date: '03-Sep-2024', currDayHigh: 1639.95, currDayLow: 1624.6 }
+[IF] Prev week high case
+buyPrice:  1649.9
+totalHoldingTarget -  0 currDayHigh  - 1639.95
+Processing date: 04-Sep-2024
+OHLC:  { date: '04-Sep-2024', currDayHigh: 1644.8, currDayLow: 1632 }
+[IF] Prev week high case
+buyPrice:  1649.9
+totalHoldingTarget -  0 currDayHigh  - 1644.8
+Processing date: 05-Sep-2024
+OHLC:  { date: '05-Sep-2024', currDayHigh: 1649.9, currDayLow: 1642 }
+[IF] Prev week high case
+buyPrice:  1649.9
+totalHoldingTarget -  0 currDayHigh  - 1649.9
+Processing date: 06-Sep-2024
+OHLC:  { date: '06-Sep-2024', currDayHigh: 1647.75, currDayLow: 1634.1 }
+[IF] Prev week high case
+buyPrice:  1649.9
+totalHoldingTarget -  0 currDayHigh  - 1647.75
+weekStart -  02-Sep-2024
+
+Processing Week Starting: 09-Sep-2024
+Processing date: 09-Sep-2024
+OHLC:  { date: '09-Sep-2024', currDayHigh: 1648.5, currDayLow: 1630.1 }
+[IF] Prev week high case
+buyPrice:  1674
+totalHoldingTarget -  0 currDayHigh  - 1648.5
+Processing date: 10-Sep-2024
+OHLC:  { date: '10-Sep-2024', currDayHigh: 1654, currDayLow: 1638 }
+[IF] Prev week high case
+buyPrice:  1674
+totalHoldingTarget -  0 currDayHigh  - 1654
+Processing date: 11-Sep-2024
+OHLC:  { date: '11-Sep-2024', currDayHigh: 1652.5, currDayLow: 1639.2 }
+[IF] Prev week high case
+buyPrice:  1674
+totalHoldingTarget -  0 currDayHigh  - 1652.5
+Processing date: 12-Sep-2024
+OHLC:  { date: '12-Sep-2024', currDayHigh: 1670, currDayLow: 1647.05 }
+[IF] Prev week high case
+buyPrice:  1674
+totalHoldingTarget -  0 currDayHigh  - 1670
+Processing date: 13-Sep-2024
+OHLC:  { date: '13-Sep-2024', currDayHigh: 1674, currDayLow: 1657.05 }
+[IF] Prev week high case
+buyPrice:  1674
+totalHoldingTarget -  0 currDayHigh  - 1674
+weekStart -  09-Sep-2024
+
+Processing Week Starting: 16-Sep-2024
+Processing date: 16-Sep-2024
+OHLC:  { date: '16-Sep-2024', currDayHigh: 1677.8, currDayLow: 1664.05 }
+[IF] Prev week high case
+buyPrice:  1744.95
+totalHoldingTarget -  0 currDayHigh  - 1677.8
+Processing date: 17-Sep-2024
+OHLC:  { date: '17-Sep-2024', currDayHigh: 1678, currDayLow: 1664.15 }
+[IF] Prev week high case
+buyPrice:  1744.95
+totalHoldingTarget -  0 currDayHigh  - 1678
+Processing date: 18-Sep-2024
+OHLC:  { date: '18-Sep-2024', currDayHigh: 1698.9, currDayLow: 1671.1 }
+[IF] Prev week high case
+buyPrice:  1744.95
+totalHoldingTarget -  0 currDayHigh  - 1698.9
+Processing date: 19-Sep-2024
+OHLC:  { date: '19-Sep-2024', currDayHigh: 1719, currDayLow: 1699.15 }
+[IF] Prev week high case
+buyPrice:  1744.95
+totalHoldingTarget -  0 currDayHigh  - 1719
+Processing date: 20-Sep-2024
+OHLC:  { date: '20-Sep-2024', currDayHigh: 1744.95, currDayLow: 1707.55 }
+[IF] Prev week high case
+buyPrice:  1744.95
+totalHoldingTarget -  0 currDayHigh  - 1744.95
+weekStart -  16-Sep-2024
+
+Processing Week Starting: 23-Sep-2024
+Processing date: 23-Sep-2024
+OHLC:  { date: '23-Sep-2024', currDayHigh: 1766.35, currDayLow: 1740.25 }
+[IF] Prev week high case
+buyPrice:  1788
+totalHoldingTarget -  0 currDayHigh  - 1766.35
+Processing date: 24-Sep-2024
+OHLC:  { date: '24-Sep-2024', currDayHigh: 1781.65, currDayLow: 1754.25 }
+[IF] Prev week high case
+buyPrice:  1788
+totalHoldingTarget -  0 currDayHigh  - 1781.65
+Processing date: 25-Sep-2024
+OHLC:  { date: '25-Sep-2024', currDayHigh: 1788, currDayLow: 1760.15 }
+[IF] Prev week high case
+buyPrice:  1788
+totalHoldingTarget -  0 currDayHigh  - 1788
+Processing date: 26-Sep-2024
+OHLC:  { date: '26-Sep-2024', currDayHigh: 1788, currDayLow: 1768.05 }
+[IF] Prev week high case
+buyPrice:  1788
+totalHoldingTarget -  0 currDayHigh  - 1788
+Processing date: 27-Sep-2024
+OHLC:  { date: '27-Sep-2024', currDayHigh: 1778.2, currDayLow: 1750 }
+[IF] Prev week high case
+buyPrice:  1788
+totalHoldingTarget -  0 currDayHigh  - 1778.2
+weekStart -  23-Sep-2024
+
+Processing Week Starting: 30-Sep-2024
+Processing date: 30-Sep-2024
+OHLC:  { date: '30-Sep-2024', currDayHigh: 1751.45, currDayLow: 1724.4 }
+[IF] Prev week high case
+buyPrice:  1751.45
+totalHoldingTarget -  0 currDayHigh  - 1751.45
+Processing date: 01-Oct-2024
+OHLC:  { date: '01-Oct-2024', currDayHigh: 1742, currDayLow: 1720.1 }
+[IF] Prev week high case
+buyPrice:  1751.45
+totalHoldingTarget -  0 currDayHigh  - 1742
+Processing date: 03-Oct-2024
+OHLC:  { date: '03-Oct-2024', currDayHigh: 1726.15, currDayLow: 1673.35 }
+[IF] Prev week high case
+buyPrice:  1751.45
+totalHoldingTarget -  0 currDayHigh  - 1726.15
+Processing date: 04-Oct-2024
+OHLC:  { date: '04-Oct-2024', currDayHigh: 1690.65, currDayLow: 1653 }
+[IF] Prev week high case
+buyPrice:  1751.45
+totalHoldingTarget -  0 currDayHigh  - 1690.65
+weekStart -  30-Sep-2024
+
+Processing Week Starting: 07-Oct-2024
+Processing date: 07-Oct-2024
+OHLC:  { date: '07-Oct-2024', currDayHigh: 1659, currDayLow: 1613 }
+[IF] Prev week high case
+buyPrice:  1665.45
+totalHoldingTarget -  0 currDayHigh  - 1659
+Processing date: 08-Oct-2024
+OHLC:  { date: '08-Oct-2024', currDayHigh: 1656.8, currDayLow: 1622 }
+[IF] Prev week high case
+buyPrice:  1665.45
+totalHoldingTarget -  0 currDayHigh  - 1656.8
+Processing date: 09-Oct-2024
+OHLC:  { date: '09-Oct-2024', currDayHigh: 1656.75, currDayLow: 1628.7 }
+[IF] Prev week high case
+buyPrice:  1665.45
+totalHoldingTarget -  0 currDayHigh  - 1656.75
+Processing date: 10-Oct-2024
+OHLC:  { date: '10-Oct-2024', currDayHigh: 1665.45, currDayLow: 1632.5 }
+[IF] Prev week high case
+buyPrice:  1665.45
+totalHoldingTarget -  0 currDayHigh  - 1665.45
+Processing date: 11-Oct-2024
+OHLC:  { date: '11-Oct-2024', currDayHigh: 1664.45, currDayLow: 1643.25 }
+[IF] Prev week high case
+buyPrice:  1665.45
+totalHoldingTarget -  0 currDayHigh  - 1664.45
+weekStart -  07-Oct-2024
+
+Processing Week Starting: 14-Oct-2024
+Processing date: 14-Oct-2024
+OHLC:  { date: '14-Oct-2024', currDayHigh: 1692.05, currDayLow: 1654 }
+[IF] Prev week high case
+buyPrice:  1707.95
+totalHoldingTarget -  0 currDayHigh  - 1692.05
+Processing date: 15-Oct-2024
+OHLC:  { date: '15-Oct-2024', currDayHigh: 1698, currDayLow: 1675.5 }
+[IF] Prev week high case
+buyPrice:  1707.95
+totalHoldingTarget -  0 currDayHigh  - 1698
+Processing date: 16-Oct-2024
+OHLC:  { date: '16-Oct-2024', currDayHigh: 1707.95, currDayLow: 1680.1 }
+[IF] Prev week high case
+buyPrice:  1707.95
+totalHoldingTarget -  0 currDayHigh  - 1707.95
+Processing date: 17-Oct-2024
+OHLC:  { date: '17-Oct-2024', currDayHigh: 1697.65, currDayLow: 1665.2 }
+[IF] Prev week high case
+buyPrice:  1707.95
+totalHoldingTarget -  0 currDayHigh  - 1697.65
+Processing date: 18-Oct-2024
+OHLC:  { date: '18-Oct-2024', currDayHigh: 1691, currDayLow: 1654.1 }
+[IF] Prev week high case
+buyPrice:  1707.95
+totalHoldingTarget -  0 currDayHigh  - 1691
+weekStart -  14-Oct-2024
+
+Processing Week Starting: 21-Oct-2024
+Processing date: 21-Oct-2024
+OHLC:  { date: '21-Oct-2024', currDayHigh: 1748.15, currDayLow: 1711.05 }
+[IF] Prev week high case
+buyPrice:  1768.65
+totalHoldingTarget -  0 currDayHigh  - 1748.15
+Processing date: 22-Oct-2024
+OHLC:  { date: '22-Oct-2024', currDayHigh: 1740, currDayLow: 1710.7 }
+[IF] Prev week high case
+buyPrice:  1768.65
+totalHoldingTarget -  0 currDayHigh  - 1740
+Processing date: 23-Oct-2024
+OHLC:  { date: '23-Oct-2024', currDayHigh: 1746.5, currDayLow: 1705.05 }
+[IF] Prev week high case
+buyPrice:  1768.65
+totalHoldingTarget -  0 currDayHigh  - 1746.5
+Processing date: 24-Oct-2024
+OHLC:  { date: '24-Oct-2024', currDayHigh: 1768.65, currDayLow: 1738.1 }
+[IF] Prev week high case
+buyPrice:  1768.65
+totalHoldingTarget -  0 currDayHigh  - 1768.65
+Processing date: 25-Oct-2024
+OHLC:  { date: '25-Oct-2024', currDayHigh: 1757.85, currDayLow: 1728.7 }
+[IF] Prev week high case
+buyPrice:  1768.65
+totalHoldingTarget -  0 currDayHigh  - 1757.85
+weekStart -  21-Oct-2024
+
+Processing Week Starting: 28-Oct-2024
+Processing date: 28-Oct-2024
+OHLC:  { date: '28-Oct-2024', currDayHigh: 1751, currDayLow: 1728.9 }
+[IF] Prev week high case
+buyPrice:  1764
+totalHoldingTarget -  0 currDayHigh  - 1751
+Processing date: 29-Oct-2024
+OHLC:  { date: '29-Oct-2024', currDayHigh: 1764, currDayLow: 1725.1 }
+[IF] Prev week high case
+buyPrice:  1764
+totalHoldingTarget -  0 currDayHigh  - 1764
+Processing date: 30-Oct-2024
+OHLC:  { date: '30-Oct-2024', currDayHigh: 1754.75, currDayLow: 1724.2 }
+[IF] Prev week high case
+buyPrice:  1764
+totalHoldingTarget -  0 currDayHigh  - 1754.75
+Processing date: 31-Oct-2024
+OHLC:  { date: '31-Oct-2024', currDayHigh: 1738.9, currDayLow: 1719.4 }
+[IF] Prev week high case
+buyPrice:  1764
+totalHoldingTarget -  0 currDayHigh  - 1738.9
+Processing date: 01-Nov-2024
+OHLC:  { date: '01-Nov-2024', currDayHigh: 1744.1, currDayLow: 1726.1 }
+[IF] Prev week high case
+buyPrice:  1764
+totalHoldingTarget -  0 currDayHigh  - 1744.1
+weekStart -  28-Oct-2024
+
+Processing Week Starting: 04-Nov-2024
+Processing date: 04-Nov-2024
+OHLC:  { date: '04-Nov-2024', currDayHigh: 1745, currDayLow: 1710.9 }
+[IF] Prev week high case
+buyPrice:  1771.5
+totalHoldingTarget -  0 currDayHigh  - 1745
+Processing date: 05-Nov-2024
+OHLC:  { date: '05-Nov-2024', currDayHigh: 1762.7, currDayLow: 1697.9 }
+[IF] Prev week high case
+buyPrice:  1771.5
+totalHoldingTarget -  0 currDayHigh  - 1762.7
+Processing date: 06-Nov-2024
+OHLC:  { date: '06-Nov-2024', currDayHigh: 1771.5, currDayLow: 1745.35 }
+[IF] Prev week high case
+buyPrice:  1771.5
+totalHoldingTarget -  0 currDayHigh  - 1771.5
+Processing date: 07-Nov-2024
+OHLC:  { date: '07-Nov-2024', currDayHigh: 1760.95, currDayLow: 1738 }
+[IF] Prev week high case
+buyPrice:  1771.5
+totalHoldingTarget -  0 currDayHigh  - 1760.95
+Processing date: 08-Nov-2024
+OHLC:  { date: '08-Nov-2024', currDayHigh: 1761.8, currDayLow: 1745.85 }
+[IF] Prev week high case
+buyPrice:  1771.5
+totalHoldingTarget -  0 currDayHigh  - 1761.8
+weekStart -  04-Nov-2024
+
+Processing Week Starting: 11-Nov-2024
+Processing date: 11-Nov-2024
+OHLC:  { date: '11-Nov-2024', currDayHigh: 1782.8, currDayLow: 1751.2 }
+[IF] Prev week high case
+buyPrice:  1782.8
+totalHoldingTarget -  0 currDayHigh  - 1782.8
+Processing date: 12-Nov-2024
+OHLC:  { date: '12-Nov-2024', currDayHigh: 1775, currDayLow: 1708.65 }
+[IF] Prev week high case
+buyPrice:  1782.8
+totalHoldingTarget -  0 currDayHigh  - 1775
+Processing date: 13-Nov-2024
+OHLC:  { date: '13-Nov-2024', currDayHigh: 1729.4, currDayLow: 1673 }
+[IF] Prev week high case
+buyPrice:  1782.8
+totalHoldingTarget -  0 currDayHigh  - 1729.4
+Processing date: 14-Nov-2024
+OHLC:  { date: '14-Nov-2024', currDayHigh: 1704.85, currDayLow: 1672.1 }
+[IF] Prev week high case
+buyPrice:  1782.8
+totalHoldingTarget -  0 currDayHigh  - 1704.85
+weekStart -  11-Nov-2024
+
+Processing Week Starting: 18-Nov-2024
+Processing date: 18-Nov-2024
+OHLC:  { date: '18-Nov-2024', currDayHigh: 1718.9, currDayLow: 1695 }
+[IF] Prev week high case
+buyPrice:  1759
+totalHoldingTarget -  0 currDayHigh  - 1718.9
+Processing date: 19-Nov-2024
+OHLC:  { date: '19-Nov-2024', currDayHigh: 1753.75, currDayLow: 1702.7 }
+[IF] Prev week high case
+buyPrice:  1759
+totalHoldingTarget -  0 currDayHigh  - 1753.75
+Processing date: 21-Nov-2024
+OHLC:  { date: '21-Nov-2024', currDayHigh: 1759, currDayLow: 1734.2 }
+[IF] Prev week high case
+buyPrice:  1759
+totalHoldingTarget -  0 currDayHigh  - 1759
+Processing date: 22-Nov-2024
+OHLC:  { date: '22-Nov-2024', currDayHigh: 1754.3, currDayLow: 1729.55 }
+[IF] Prev week high case
+buyPrice:  1759
+totalHoldingTarget -  0 currDayHigh  - 1754.3
+weekStart -  18-Nov-2024
+
+Processing Week Starting: 25-Nov-2024
+Processing date: 25-Nov-2024
+OHLC:  { date: '25-Nov-2024', currDayHigh: 1803.55, currDayLow: 1764.9 }
+[IF] Prev week high case
+buyPrice:  1836.1
+totalHoldingTarget -  0 currDayHigh  - 1803.55
+Processing date: 26-Nov-2024
+OHLC:  { date: '26-Nov-2024', currDayHigh: 1810, currDayLow: 1769.8 }
+[IF] Prev week high case
+buyPrice:  1836.1
+totalHoldingTarget -  0 currDayHigh  - 1810
+Processing date: 27-Nov-2024
+OHLC:  { date: '27-Nov-2024', currDayHigh: 1817.35, currDayLow: 1785.15 }
+[IF] Prev week high case
+buyPrice:  1836.1
+totalHoldingTarget -  0 currDayHigh  - 1817.35
+Processing date: 28-Nov-2024
+OHLC:  { date: '28-Nov-2024', currDayHigh: 1836.1, currDayLow: 1788 }
+[IF] Prev week high case
+buyPrice:  1836.1
+totalHoldingTarget -  0 currDayHigh  - 1836.1
+Processing date: 29-Nov-2024
+OHLC:  { date: '29-Nov-2024', currDayHigh: 1804.6, currDayLow: 1782.9 }
+[IF] Prev week high case
+buyPrice:  1836.1
+totalHoldingTarget -  0 currDayHigh  - 1804.6
+weekStart -  25-Nov-2024
+
+Processing Week Starting: 02-Dec-2024
+Processing date: 02-Dec-2024
+OHLC:  { date: '02-Dec-2024', currDayHigh: 1808.15, currDayLow: 1775 }
+[IF] Prev week high case
+buyPrice:  1879.95
+totalHoldingTarget -  0 currDayHigh  - 1808.15
+Processing date: 03-Dec-2024
+OHLC:  { date: '03-Dec-2024', currDayHigh: 1837.4, currDayLow: 1816.1 }
+[IF] Prev week high case
+buyPrice:  1879.95
+totalHoldingTarget -  0 currDayHigh  - 1837.4
+Processing date: 04-Dec-2024
+OHLC:  { date: '04-Dec-2024', currDayHigh: 1865, currDayLow: 1831.15 }
+[IF] Prev week high case
+buyPrice:  1879.95
+totalHoldingTarget -  0 currDayHigh  - 1865
+Processing date: 05-Dec-2024
+OHLC:  { date: '05-Dec-2024', currDayHigh: 1879.95, currDayLow: 1835.2 }
+[IF] Prev week high case
+buyPrice:  1879.95
+totalHoldingTarget -  0 currDayHigh  - 1879.95
+Processing date: 06-Dec-2024
+OHLC:  { date: '06-Dec-2024', currDayHigh: 1864.2, currDayLow: 1844 }
+[IF] Prev week high case
+buyPrice:  1879.95
+totalHoldingTarget -  0 currDayHigh  - 1864.2
+weekStart -  02-Dec-2024
+
+Processing Week Starting: 09-Dec-2024
+Processing date: 09-Dec-2024
+OHLC:  { date: '09-Dec-2024', currDayHigh: 1880, currDayLow: 1849 }
+[IF] Prev week high case
+buyPrice:  1880
+totalHoldingTarget -  0 currDayHigh  - 1880
+Processing date: 10-Dec-2024
+OHLC:  { date: '10-Dec-2024', currDayHigh: 1877.7, currDayLow: 1858.55 }
+[IF] Prev week high case
+buyPrice:  1880
+totalHoldingTarget -  0 currDayHigh  - 1877.7
+Processing date: 11-Dec-2024
+OHLC:  { date: '11-Dec-2024', currDayHigh: 1871.9, currDayLow: 1856.75 }
+[IF] Prev week high case
+buyPrice:  1880
+totalHoldingTarget -  0 currDayHigh  - 1871.9
+Processing date: 12-Dec-2024
+OHLC:  { date: '12-Dec-2024', currDayHigh: 1868.65, currDayLow: 1848.7 }
+[IF] Prev week high case
+buyPrice:  1880
+totalHoldingTarget -  0 currDayHigh  - 1868.65
+Processing date: 13-Dec-2024
+OHLC:  { date: '13-Dec-2024', currDayHigh: 1875, currDayLow: 1829.25 }
+[IF] Prev week high case
+buyPrice:  1880
+totalHoldingTarget -  0 currDayHigh  - 1875
+weekStart -  09-Dec-2024
+
+Processing Week Starting: 16-Dec-2024
+Processing date: 16-Dec-2024
+OHLC:  { date: '16-Dec-2024', currDayHigh: 1869.95, currDayLow: 1855.25 }
+[IF] Prev week high case
+buyPrice:  1869.95
+totalHoldingTarget -  0 currDayHigh  - 1869.95
+Processing date: 17-Dec-2024
+OHLC:  { date: '17-Dec-2024', currDayHigh: 1862.35, currDayLow: 1826.5 }
+[IF] Prev week high case
+buyPrice:  1869.95
+totalHoldingTarget -  0 currDayHigh  - 1862.35
+Processing date: 18-Dec-2024
+OHLC:  { date: '18-Dec-2024', currDayHigh: 1836, currDayLow: 1807.15 }
+[IF] Prev week high case
+buyPrice:  1869.95
+totalHoldingTarget -  0 currDayHigh  - 1836
+Processing date: 19-Dec-2024
+OHLC:  { date: '19-Dec-2024', currDayHigh: 1801.1, currDayLow: 1779 }
+[IF] Prev week high case
+buyPrice:  1869.95
+totalHoldingTarget -  0 currDayHigh  - 1801.1
+Processing date: 20-Dec-2024
+OHLC:  { date: '20-Dec-2024', currDayHigh: 1797.55, currDayLow: 1767.05 }
+[IF] Prev week high case
+buyPrice:  1869.95
+totalHoldingTarget -  0 currDayHigh  - 1797.55
+weekStart -  16-Dec-2024
+
+Processing Week Starting: 23-Dec-2024
+Processing date: 23-Dec-2024
+OHLC:  { date: '23-Dec-2024', currDayHigh: 1806, currDayLow: 1781.3 }
+[IF] Prev week high case
+buyPrice:  1812
+totalHoldingTarget -  0 currDayHigh  - 1806
+Processing date: 24-Dec-2024
+OHLC:  { date: '24-Dec-2024', currDayHigh: 1808.7, currDayLow: 1789.55 }
+[IF] Prev week high case
+buyPrice:  1812
+totalHoldingTarget -  0 currDayHigh  - 1808.7
+Processing date: 26-Dec-2024
+OHLC:  { date: '26-Dec-2024', currDayHigh: 1812, currDayLow: 1780.75 }
+[IF] Prev week high case
+buyPrice:  1812
+totalHoldingTarget -  0 currDayHigh  - 1812
+Processing date: 27-Dec-2024
+OHLC:  { date: '27-Dec-2024', currDayHigh: 1805.95, currDayLow: 1789.1 }
+[IF] Prev week high case
+buyPrice:  1812
+totalHoldingTarget -  0 currDayHigh  - 1805.95
+weekStart -  23-Dec-2024
+
+Processing Week Starting: 30-Dec-2024
+Processing date: 30-Dec-2024
+OHLC:  { date: '30-Dec-2024', currDayHigh: 1815, currDayLow: 1771 }
+[IF] Prev week high case
+buyPrice:  1815
+totalHoldingTarget -  0 currDayHigh  - 1815
+Processing date: 31-Dec-2024
+OHLC:  { date: '31-Dec-2024', currDayHigh: 1781.8, currDayLow: 1765.6 }
+[IF] Prev week high case
+buyPrice:  1815
+totalHoldingTarget -  0 currDayHigh  - 1781.8
+Processing date: 01-Jan-2025
+OHLC:  { date: '01-Jan-2025', currDayHigh: 1794, currDayLow: 1761.1 }
+[IF] Prev week high case
+buyPrice:  1815
+totalHoldingTarget -  0 currDayHigh  - 1794
+Processing date: 02-Jan-2025
+OHLC:  { date: '02-Jan-2025', currDayHigh: 1803.45, currDayLow: 1773 }
+[IF] Prev week high case
+buyPrice:  1815
+totalHoldingTarget -  0 currDayHigh  - 1803.45
+Processing date: 03-Jan-2025
+OHLC:  { date: '03-Jan-2025', currDayHigh: 1795.25, currDayLow: 1746.3 }
+[IF] Prev week high case
+buyPrice:  1815
+totalHoldingTarget -  0 currDayHigh  - 1795.25
+weekStart -  30-Dec-2024
+
+Processing Week Starting: 06-Jan-2025
+Processing date: 06-Jan-2025
+OHLC:  { date: '06-Jan-2025', currDayHigh: 1757.2, currDayLow: 1705.8 }
+[IF] Prev week high case
+buyPrice:  1757.2
+totalHoldingTarget -  0 currDayHigh  - 1757.2
+Processing date: 07-Jan-2025
+OHLC:  { date: '07-Jan-2025', currDayHigh: 1721, currDayLow: 1700 }
+[IF] Prev week high case
+buyPrice:  1757.2
+totalHoldingTarget -  0 currDayHigh  - 1721
+Processing date: 08-Jan-2025
+OHLC:  { date: '08-Jan-2025', currDayHigh: 1711.65, currDayLow: 1683.35 }
+[IF] Prev week high case
+buyPrice:  1757.2
+totalHoldingTarget -  0 currDayHigh  - 1711.65
+Processing date: 09-Jan-2025
+OHLC:  { date: '09-Jan-2025', currDayHigh: 1689, currDayLow: 1658.1 }
+[IF] Prev week high case
+buyPrice:  1757.2
+totalHoldingTarget -  0 currDayHigh  - 1689
+Processing date: 10-Jan-2025
+OHLC:  { date: '10-Jan-2025', currDayHigh: 1674.9, currDayLow: 1654 }
+[IF] Prev week high case
+buyPrice:  1757.2
+totalHoldingTarget -  0 currDayHigh  - 1674.9
+weekStart -  06-Jan-2025
+
+Processing Week Starting: 13-Jan-2025
+Processing date: 13-Jan-2025
+OHLC:  { date: '13-Jan-2025', currDayHigh: 1646.75, currDayLow: 1624.3 }
+[IF] Prev week high case
+buyPrice:  1662.7
+totalHoldingTarget -  0 currDayHigh  - 1646.75
+Processing date: 14-Jan-2025
+OHLC:  { date: '14-Jan-2025', currDayHigh: 1656.2, currDayLow: 1637 }
+[IF] Prev week high case
+buyPrice:  1662.7
+totalHoldingTarget -  0 currDayHigh  - 1656.2
+Processing date: 15-Jan-2025
+OHLC:  { date: '15-Jan-2025', currDayHigh: 1662.7, currDayLow: 1636.3 }
+[IF] Prev week high case
+buyPrice:  1662.7
+totalHoldingTarget -  0 currDayHigh  - 1662.7
+Processing date: 16-Jan-2025
+OHLC:  { date: '16-Jan-2025', currDayHigh: 1660.55, currDayLow: 1642.85 }
+[IF] Prev week high case
+buyPrice:  1662.7
+totalHoldingTarget -  0 currDayHigh  - 1660.55
+Processing date: 17-Jan-2025
+OHLC:  { date: '17-Jan-2025', currDayHigh: 1650.5, currDayLow: 1628.5 }
+[IF] Prev week high case
+buyPrice:  1662.7
+totalHoldingTarget -  0 currDayHigh  - 1650.5
+weekStart -  13-Jan-2025
+
+Processing Week Starting: 20-Jan-2025
+Processing date: 20-Jan-2025
+OHLC:  { date: '20-Jan-2025', currDayHigh: 1660.95, currDayLow: 1626 }
+[IF] Prev week high case
+buyPrice:  1687
+totalHoldingTarget -  0 currDayHigh  - 1660.95
+Processing date: 21-Jan-2025
+OHLC:  { date: '21-Jan-2025', currDayHigh: 1661.05, currDayLow: 1633.05 }
+[IF] Prev week high case
+buyPrice:  1687
+totalHoldingTarget -  0 currDayHigh  - 1661.05
+Processing date: 22-Jan-2025
+OHLC:  { date: '22-Jan-2025', currDayHigh: 1671.9, currDayLow: 1625.45 }
+[IF] Prev week high case
+buyPrice:  1687
+totalHoldingTarget -  0 currDayHigh  - 1671.9
+Processing date: 23-Jan-2025
+OHLC:  { date: '23-Jan-2025', currDayHigh: 1687, currDayLow: 1651.25 }
+[IF] Prev week high case
+buyPrice:  1687
+totalHoldingTarget -  0 currDayHigh  - 1687
+Processing date: 24-Jan-2025
+OHLC:  { date: '24-Jan-2025', currDayHigh: 1670.3, currDayLow: 1644.5 }
+[IF] Prev week high case
+buyPrice:  1687
+totalHoldingTarget -  0 currDayHigh  - 1670.3
+weekStart -  20-Jan-2025
+
+Processing Week Starting: 27-Jan-2025
+Processing date: 27-Jan-2025
+OHLC:  { date: '27-Jan-2025', currDayHigh: 1643.6, currDayLow: 1626 }
+[IF] Prev week high case
+buyPrice:  1713
+totalHoldingTarget -  0 currDayHigh  - 1643.6
+Processing date: 28-Jan-2025
+OHLC:  { date: '28-Jan-2025', currDayHigh: 1684.3, currDayLow: 1647 }
+[IF] Prev week high case
+buyPrice:  1713
+totalHoldingTarget -  0 currDayHigh  - 1684.3
+Processing date: 29-Jan-2025
+OHLC:  { date: '29-Jan-2025', currDayHigh: 1681.15, currDayLow: 1668.85 }
+[IF] Prev week high case
+buyPrice:  1713
+totalHoldingTarget -  0 currDayHigh  - 1681.15
+Processing date: 30-Jan-2025
+OHLC:  { date: '30-Jan-2025', currDayHigh: 1697.9, currDayLow: 1672.55 }
+[IF] Prev week high case
+buyPrice:  1713
+totalHoldingTarget -  0 currDayHigh  - 1697.9
+Processing date: 31-Jan-2025
+OHLC:  { date: '31-Jan-2025', currDayHigh: 1704.7, currDayLow: 1683.95 }
+[IF] Prev week high case
+buyPrice:  1713
+totalHoldingTarget -  0 currDayHigh  - 1704.7
+Processing date: 01-Feb-2025
+OHLC:  { date: '01-Feb-2025', currDayHigh: 1713, currDayLow: 1676.05 }
+[IF] Prev week high case
+buyPrice:  1713
+totalHoldingTarget -  0 currDayHigh  - 1713
+weekStart -  27-Jan-2025
+CSV processing completed. - tradingWeeksLen=  53
